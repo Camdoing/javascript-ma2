@@ -1,10 +1,13 @@
 //MODULE ASSIGNMENT 2 - LEVEL 1
 
 1. What is a function literal?
+A function literal is another way of  defining functions, like an unnamed function. The syntax is similar to a function statement, except that it is used as an expression rather than a statement. No function name is required.
 
 2. What is the constructor?
+The constructor is a function that initializes an object. Constructor functions can be used to make multiple similar objects.
 
 3. What does the return statement do?
+The return statement is a statement, and it ends the execution of a function. It is used to specify a value (object/array/variable) to be returned to  the functions caller scope.
 
 4. What will be written to the console from this function:
 		function myFunction(){
@@ -13,5 +16,9 @@
 		}
 		myFunction();
 
+inside my function
+<undefined
 
 5. Briefly describe scope in JavaScript.
+Scope refers to the context of your scope. It refers to where we define variables and functions. Javascript variables have two scopes: Global and local.
+
